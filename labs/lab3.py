@@ -1,4 +1,17 @@
-"""MyShoppe order entry: Lab 03."""
+"""
+CS1026 Lab 3
+Name: Xinge Xu
+Student ID: 251549803
+Username: XXU767
+Date: October 8, 2026
+
+This program allows the user to enter product information for an order,
+including product name, quantity, and unit price. It calculates the total
+cost of the order, identifies the most expensive item,
+and computes the average unit price of all products entered.
+The program continues to prompt for product information
+until the user indicates they are done.
+"""
 
 print("MyShoppe Order Entry")
 print("--------------------")
